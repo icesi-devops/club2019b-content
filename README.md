@@ -1,2 +1,1 @@
-# club2019b-content
-Icesi DevOps Club 2019/02 
+# Contents for the Icesi DevOps Club 2019/02
