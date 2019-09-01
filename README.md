@@ -37,6 +37,9 @@ Each session will be dedicated to understand, discuss and solve an engineering p
 
 Among with each session the topics listed in the core topics session will be covered using an active learning strategy
 
+![][1]
+**Figura 1.** Diagram for methodology
+
 ## Problem Cases
 
 1.	Create an application that allows to the members of the DevOps club to store in a database a list of skills and levels per member. The matrix of skills and levels will be expanded with time according with emerging technologies and the club maturity. It must be possible to perform queries according to name, skill level, technology. The information in the matrix can be updated by a request of all of the members of the club. The application will allow to active and deactivate users. An authorization method is needed. Public access is available for read only queries.
@@ -124,4 +127,4 @@ Among with each session the topics listed in the core topics session will be cov
     b.	Red black deployment  
     c.	Canary deployment  
 
-
+[1]: images/Club-DevOps-Suggested-Methodology-Version2-07082019.png
