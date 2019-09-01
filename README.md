@@ -38,7 +38,7 @@ Each session will be dedicated to understand, discuss and solve an engineering p
 Among with each session the topics listed in the core topics session will be covered using an active learning strategy
 
 ![][1]
-**Figura 1.** Diagram for methodology
+**Figure 1.** Diagram for methodology
 
 ## Problem Cases
 
