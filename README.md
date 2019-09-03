@@ -93,7 +93,7 @@ Among with each session the topics listed in the core topics session will be cov
     a.	Declarative  
     b.	Imperative 
     c.  IaC Tools (Terraform, CloudFormation, Troposphere) 
-    d.  Configuration Management tools (SaltStack, Ansible, Puppet, Chef)   
+    d.  Configuration Management tools (SaltStack, Ansible, Puppet, Chef)	   
 5.	Microservices  
     a.	REST, GRAPHQL  
     b.	Microframeworks, Solution template  
