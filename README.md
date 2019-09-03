@@ -91,9 +91,9 @@ Among with each session the topics listed in the core topics session will be cov
     c.	Tools (GitHub, GitLab, Git Editors, Git Plugins)  
 4.	Infrastructure as Code (IaC)  
     a.	Declarative  
-    b.	Imperative 
-    c.  IaC Tools (Terraform, CloudFormation, Troposphere) 
-    d.  Configuration Management tools (SaltStack, Ansible, Puppet, Chef)	   
+    b.	Imperative  
+    c.  IaC Tools (Terraform, CloudFormation, Troposphere)   
+    d.  Configuration Management tools (SaltStack, Ansible, Puppet, Chef)     
 5.	Microservices  
     a.	REST, GRAPHQL  
     b.	Microframeworks, Solution template  
