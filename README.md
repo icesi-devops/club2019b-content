@@ -7,35 +7,35 @@ Release: 1
 Github: www.github.com/Icesi-DevOps
 
 ## Primary Objective:
-* Use the appropriate set of engineering tools and techniques for the solution of engineering problems. Problems will belong to the context of cloud computing services deployment
+* Use the appropriate set of engineering tools and techniques for the solution of engineering problems. Problems will belong to the context of cloud computing services deployment.
 
 ## Secondary Objectives
-* Know about tools and techniques that match with engineering software processes
-* Use engineering tools and techniques in the creation of solutions
-* Use advanced technical vocabulary for the public presentation of architectures and solutions
+* Know about tools and techniques that match with engineering software processes.
+* Use engineering tools and techniques in the creation of agile software development solutions.
+* Use advanced technical vocabulary for the public presentation of architectures and software development solutions.
 
 ## Club Results:
 * First iteration of DevOps career plan (matrix of skills and levels)
-* Portfolio of problems with detailed requirements
+* Portfolio of problems with detailed requirements.
 
 ## Members Results
-* Members are able to explain the purpose of a set of cloud computing resources
-* Members are able to design cloud architectures that solved cloud computing services deployment problems
-* Members are able to explain to others with the appropriate technical vocabulary how the tools and techniques were integrated in order to get the solution
+* Members are able to explain the purpose of a set of cloud computing resources.
+* Members are able to design cloud architectures that solved cloud computing services deployment problems.
+* Members are able to explain to others with the appropriate technical vocabulary how the tools and techniques were integrated in order to get the solution.
 
 ## Methodology
 Each session will be dedicated to understand, discuss and solve an engineering problem. Problems will belong to the context of cloud computing services deployment. An expanded explanation of a club session is as follows:
 
-- Teams are randomly created
-- Problem is presented, deadline is also established (this might be from one week to two weeks)
-- Problem is discussed. Requirements are collected by the teams
-- Teams must determine the processes to follow in order to achieve the desired goals. Processes include but are not limited to: versioning, software methodology, software architecture, infrastructure architecture, integration strategy, testing (unit, end to end, performance, acceptance), deployment, monitoring, security, cloud provider selection, minimun viable product. Constraints will be defined by the nature of the problem
-- Teams present the selected processes. This selection is publicly discussed
-- Teams are able to adopt the chosen processes by other teams
-- Teams work on the solution. Teams match the defined processes with tools and techniques
-- Solutions are publicly presented and discussed
+- Teams are randomly created.
+- Problem is presented, deadline is also established (this might be from one week to two weeks).
+- Problem is discussed. Requirements are collected by the teams.
+- Teams must determine the processes to follow in order to achieve the desired goals. Processes include but are not limited to: versioning, software methodology, software architecture, infrastructure architecture, integration strategy, testing (unit, end to end, performance, acceptance), deployment, monitoring, security, cloud provider selection, minimun viable product. Constraints will be defined by the nature of the problem.
+- Teams present the selected processes. This selection is publicly discussed.
+- Teams are able to adopt the chosen processes by other teams.
+- Teams work on the solution. Teams match the defined processes with tools and techniques.
+- Solutions are publicly presented and discussed.
 
-Among with each session the topics listed in the core topics session will be covered using an active learning strategy
+Among with each session the topics listed in the core topics session will be covered using an active learning strategy.
 
 ![][1]
 **Figure 1.** Diagram for methodology
@@ -89,9 +89,11 @@ Among with each session the topics listed in the core topics session will be cov
     a.	Basics  
     b.	Git flow  
     c.	Tools (GitHub, GitLab, Git Editors, Git Plugins)  
-4.	Infrastructure as Code (IaaC)  
+4.	Infrastructure as Code (IaC)  
     a.	Declarative  
     b.	Imperative  
+    c.  IaC Tools (Terraform, CloudFormation, Troposphere)   
+    d.  Configuration Management tools (SaltStack, Ansible, Puppet, Chef)     
 5.	Microservices  
     a.	REST, GRAPHQL  
     b.	Microframeworks, Solution template  
